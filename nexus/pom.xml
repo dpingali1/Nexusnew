@@ -26,8 +26,8 @@
 </repository>
 <snapshotRepository>
 <id>nexus-site</id>
-<name>demo-snapshot</name>
-<url>http://20.83.169.184:8081/repository/demo-snapshot/</url>
+<name>demosnapshot</name>
+<url>http://20.83.169.184:8081/repository/demosnapshot/</url>
 </snapshotRepository>
 </distributionManagement>
 </project>
